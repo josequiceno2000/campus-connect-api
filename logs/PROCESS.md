@@ -7,4 +7,4 @@
 
 ## Phase 2: Database Models & Schema Design
 1. ~~Design models using SQLAlchemy~~ ✔
-2. Set up database connection in database.py using .env
+2. ~~Set up database connection in database.py using .env~~ ✔

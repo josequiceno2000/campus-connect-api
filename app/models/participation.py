@@ -1,8 +1,8 @@
 from sqlalchemy import Column, Integer, ForeignKey, Table
 from sqlalchemy.orm import relationship
-from sqlalchemy.ext.declarative import declaractive_base
+from sqlalchemy.ext.declarative import declarative_base
 
-Base = declaractive_base()
+Base = declarative_base()
 
 participation_table = Table(
     "participations",
